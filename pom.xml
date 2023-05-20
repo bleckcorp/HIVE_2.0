@@ -8,11 +8,11 @@
 		<version>3.0.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.example</groupId>
+	<groupId>com.bctech</groupId>
 	<artifactId>hive</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hive</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Hive</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
